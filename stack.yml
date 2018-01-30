@@ -7,6 +7,3 @@ services:
       - "1234:8080"
   slave1:
     image: spark
-
-  slave2:
-    image: spark

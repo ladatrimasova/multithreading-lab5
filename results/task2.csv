@@ -1,0 +1,14 @@
+cc.newcastle.edu.au,"\"POST / HTTP/1.0\"",1
+134.57.9.77,"\"POST /shuttle/missions/sts-70/mission-sts-70.html HTTP/1.0\"",1
+titan02f,"\"GET /cgi-bin/BrokerQuery.pl?query=oms%04%06%06&host=titan04.ksc.nasa.gov%3A8501&caseflag=on&wordflag=on&errorflag=0&opaqueflag=on&descflag=on&verbose=on&maxresultflag=50 HTTP/1.0\"",1
+192.83.171.94,"\"POST /images/getstats.gif HTTP/1.0\"",1
+163.205.1.45,"\"GET /cgi-bin/geturlstats.pl HTTP/1.0\"",53
+163.205.16.23,"\"POST /images/getstats.gif HTTP/1.0\"",1
+129.130.115.19,"\"POST /shuttle/missions/sts-69/mission-sts-69.html HTTP/1.0\"",1
+n1032036.ksc.nasa.gov,"\"POST /images/getstats.gif HTTP/1.0\"",1
+newcastle03.nbnet.nb.ca,"\"POST /ksc.html HTTP/1.0\"",2
+titan02,"\"GET /Harvest/cgi-bin/BrokerQuery.pl.cgi?query=oms&host=titan04.ksc.nasa.gov%3A8501&caseflag=on&wordflag=on&errorflag=0&opaqueflag=on&descflag=on&verbose=on&maxresultflag=50 HTTP/1.0\"",4
+reddragon.ksc.nasa.gov,"\"GET /htbin/cdt.pl HTTP/1.0\"",1
+134.57.9.77,"\"POST /ksc.html HTTP/1.0\"",5
+ix-tf1-18.ix.netcom.com,"\"POST / HTTP/1.0\"",1
+titan02f,"\"GET /cgi-bin/BrokerQuery.pl?query=oms&host=titan04.ksc.nasa.gov%3A8501&caseflag=on&wordflag=on&errorflag=0&opaqueflag=on&descflag=on&verbose=on&maxresultflag=50 HTTP/1.0\"",3

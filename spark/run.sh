@@ -1,3 +1,4 @@
+#!/bin/bash
 ssh-copy-id -i $HOME/.ssh/id_rsa.pub  -o StrictHostKeyChecking=no  root@master
 ssh-copy-id -i $HOME/.ssh/id_rsa.pub  -o StrictHostKeyChecking=no  root@slave1
 
@@ -12,3 +13,5 @@ $SPARK_HOME/sbin/start-slaves.sh
 
 hdfs dfs -mkdir /logs_nasa
 hdfs dfs -put /root/NASA_access_log_Jul95 /logs_nasa/
+
+spark-submit --master yarn --deploy-mode client /root/tasks.py
